@@ -63,4 +63,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 MIT license; see [LICENSE](./LICENSE).
 
-(c) 2018 by Kang Yasin
+(c) 2022 by Kang Yasin

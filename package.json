@@ -1,6 +1,6 @@
 {
   "name": "@kangyasin/crypt-aes-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Kang Yasin",
   "main": "src/CryptAES.js",
   "description": "crypt-aes-node uses AES 256 for encryption or decryption. This library can be used for encryption and decryption of strings using Node on iOS and Android",
