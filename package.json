@@ -1,16 +1,11 @@
 {
   "name": "@kangyasin/crypt-aes-node",
   "version": "1.0.3",
-  "author": {
-    "name": "Kang Yasin"
-  },
+  "author": "Kang Yasin",
   "main": "src/CryptAES.js",
   "description": "crypt-aes-node uses AES 256 for encryption or decryption. This library can be used for encryption and decryption of strings using Node on iOS and Android",
   "contributors": [
-    {
-      "name": "Kang Yasin",
-      "email": "tutorialblogmarine@gmail.com"
-    }
+    "Kang Yasin <tutorialblogmarine@gmail.com>"
   ],
   "scripts": {
     "start": "node example.js",
@@ -18,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:kangyasin/crypt-aes-node.git"
+    "url": "git+ssh://git@github.com/kangyasin/crypt-aes-node.git"
   },
   "keywords": [
     "AES node",
@@ -47,9 +42,9 @@
     "email": "tutorialblogmarine@gmail.com"
   },
   "maintainers": [
-    {
-      "name": "Kang Yasin",
-      "email": "tutorialblogmarine@gmail.com"
-    }
-  ]
+    "Kang Yasin <tutorialblogmarine@gmail.com>"
+  ],
+  "directories": {
+    "test": "test"
+  }
 }
